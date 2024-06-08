@@ -105,7 +105,7 @@ Repositorio para a atividade de Linux, do programa de bolsas da Compass UOL. Ati
 - Feito isso, fiz a `alocação com a minha VPC criada`
 - Agora eu fiz a parte principal da atividade, que é `configurar as regras de entrada`, clicando em adicionar nova regra. No caso eu eu adicionei 7 novas regras que são:
 
-![Regras adicionar em entradas](Regras-Tráfego-de-internet-na-tabela-de-roteamento.png)
+![Regras de Tráfego de Internet na Tabela de Roteamento](Regras%20Tr%C3%A1fego%20de%20internet%20na%20tabela%20de%20roteamento.png)
 
 ### Executando a Instância.
 - Acessar a AWS na pagina do serviço EC2, e clicar em `Instâncias`
