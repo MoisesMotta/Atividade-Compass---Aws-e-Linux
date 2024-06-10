@@ -46,7 +46,6 @@ Repositorio para a atividade de Linux, do programa de bolsas da Compass UOL. Ati
 - Foi criado também um Grupo de segurança novo.
 - Foi criado Sub-Rede nova.
 - Foi criado um Gateway de Internet.
-- Foi criado também um novo grupo de segurança.
   
   Vamos aprofundar mais pra frente como eu fiz
 
