@@ -201,7 +201,7 @@ Para finalizar iremos fazer esse script executar a cada 5 minuto.
   -  ```*/5 * * * * /usr/local/bin/verificar_apache.sh```
     
 
-###Com isso finalizamos a atividade e um dos jeitos de testar se o apache está online é pegando o ip publico da instância e jogando na web, no qual vai cair na web do apache.
+### Com isso finalizamos a atividade e um dos jeitos de testar se o apache está online é pegando o ip publico da instância e jogando na web, no qual vai cair na web do apache.
 ---
 
 # Referências
