@@ -31,7 +31,6 @@ Repositorio para a atividade de Linux, do programa de bolsas da Compass UOL. Ati
 - [Criando a Sub-Rede](#criando-a-sub-rede)
 - [Criando e configurando o gateway de internet](#criando-e-configurando-o-gateway-de-internet)
 - [Liberando tráfego de internet na Tabela de Roteamento](#liberando-tráfego-de-internet-na-tabela-de-roteamento)
-- [Configurando as regras de grupo de segurança](#configurando-as-regras-de-grupo-de-segurança)
 - [Executando a Instância](#executando-a-instância)
 - [Associar IP Elástico a Instância EC2](#associar-ip-elástico-a-instância-ec2)
 - [Configurando acesso ao NFS](#configurando-acesso-ao-nfs)
